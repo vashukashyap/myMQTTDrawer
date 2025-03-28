@@ -19,3 +19,11 @@ clone the project and open it inside vscode ( make sure that you have PlatformIO
 #### All the MQTT parameter are present inside the ```common.h``` file in the include dir.
 
 ----
+
+![1000010634](https://github.com/user-attachments/assets/20453861-710e-4909-9012-f4c04ccbdf1e)
+
+
+
+
+https://github.com/user-attachments/assets/6049139f-38be-4d9c-88d5-b99b737463d0
+
