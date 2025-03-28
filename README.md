@@ -25,5 +25,7 @@ clone the project and open it inside vscode ( make sure that you have PlatformIO
 
 
 
-https://github.com/user-attachments/assets/6049139f-38be-4d9c-88d5-b99b737463d0
+https://github.com/user-attachments/assets/6049139f-38be-4d9c-88d5-b99b737463d0   
+
+
 👀btw, i am the one who is holding the camera.
