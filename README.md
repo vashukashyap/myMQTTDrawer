@@ -14,7 +14,7 @@ clone the project and open it inside vscode ( make sure that you have PlatformIO
 - IR sensor
 
 ## Pin configuration
-- GPIO 2 ,  is used as INPut for taking IR sensor in OUPUT.
+- GPIO 2 ,  is used as INPUT for taking IR sensor in OUPUT.
 
 #### All the MQTT parameter are present inside the ```common.h``` file in the include dir.
 
